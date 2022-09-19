@@ -1,6 +1,6 @@
 # LinkedIn-Database
 
-Database Management Systems
+Database Management Systems Project
 
 ## Description
 
