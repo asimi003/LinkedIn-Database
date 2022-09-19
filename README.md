@@ -1,11 +1,12 @@
 # LinkedIn-Database
+
 Database Management Systems
 
-Description:
+## Description
 
 A database using SQL, triggers, indexes, and Java to run a semi-decent console GUI.
 
-Requirements:
+## Requirements
 
 Since this project was created on a local Windows computer. Some requirements must be met given you are also working on a Windows PC: 
 
@@ -17,7 +18,7 @@ Make sure the libraries in java/lib are recognized by your IDE.
 
 Change the absolute path data CSV files in load_data.sql
 
-Note:
+## Note
 
 All SQL scripts are located in the sql/src folder. This folder has the create_index, create_tables, create_trigger, and load_data files used to load our data and be able to use it effectively.
 
