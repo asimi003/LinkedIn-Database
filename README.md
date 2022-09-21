@@ -23,3 +23,7 @@ Change the absolute path data CSV files in load_data.sql
 All SQL scripts are located in the sql/src folder. This folder has the create_index, create_tables, create_trigger, and load_data files used to load our data and be able to use it effectively.
 
 All Java source code is located in the java/src folder. The file is convoluted but is documented thoroughly.
+
+## Relational Database Diagrams
+
+![Database Diagram 1](https://user-images.githubusercontent.com/97551999/191624107-b879dbec-30d1-428c-8de2-4d012f9a5574.png)
