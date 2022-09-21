@@ -24,6 +24,6 @@ All SQL scripts are located in the sql/src folder. This folder has the create_in
 
 All Java source code is located in the java/src folder. The file is convoluted but is documented thoroughly.
 
-## Relational Database Diagram
+## Relational Database Design Diagram
 
 ![Database Diagram 1](https://user-images.githubusercontent.com/97551999/191624107-b879dbec-30d1-428c-8de2-4d012f9a5574.png)
